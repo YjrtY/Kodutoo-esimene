@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body{
+    background-color: cornsilk;
+}
+
+.Heading{
+    text-align: center;
+    color: chocolate;
+    font-family: "Mulish", sans-serif;
+
+}
+
+.Koostisosad{
+    border: 1px solid black;
+    width: 50%;
+    margin: 2rem auto;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    color: rgb(165, 60, 60);
+}
+
+.Pilt{
+    text-align: center;
+    margin-bottom: 30px; 
+}
+
+.Pilt img{
+    display: block;
+    margin: 0 auto;
+}
+
+.Koostisosade-Tabel{
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+.Juhend{
+    border: 1px solid black;
+    width: 57%;
+    margin: 0 auto;
+    color: rgb(53, 18, 190);
+}
+
+.Juhend ol{
+    border: 1px solid blue;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.Lingid{
+    padding-left: 28px;
+    color: rgb(201, 54, 99);
+}
+
+.footer{
+    color: rgb(22, 106, 202);
+}
